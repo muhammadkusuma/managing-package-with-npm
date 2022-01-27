@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "M. Wira Ade Kusuma",
+  "description": "Project Ini Akan Keren",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
